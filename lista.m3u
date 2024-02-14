@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,BBB - 01
+#EXTINF:-1 tvg-id="" tvg-name="BBB - 01" tvg-logo="http://p6.vc/AXJH" 
 http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1,BBB - 02
+#EXTINF:-1 tvg-id="" tvg-name="BBB - 02" tvg-logo="http://p6.vc/AXJH" 
 http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1,BBB - 03
+#EXTINF:-1 tvg-id="" tvg-name="BBB - 03" tvg-logo="http://p6.vc/AXJH" 
 http://voz.one:80/alexfnt/vTFBGKdUYq/254732
 #EXTINF:-1,BBB - 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/258180
